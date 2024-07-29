@@ -2,7 +2,7 @@
 
 **This repository contains the Matlab code of R2/D-EGO.** 
 
-> **Liang Zhao, Xiaobin Huang, Chao Qian, and Qingfu Zhang. Many-to-Few Decomposition: Linking R2-based and Decomposition-based Multiobjective Efficient Global Optimization Algorithms. IEEE Transactions on Evolutionary Computation, 2024.  [[PDF](https://ieeexplore.ieee.org/document/xxxx)] [[Supplementary](https://ieeexplore.ieee.org/document/xxxx/media#media)]** <br/>
+> **Liang Zhao, Xiaobin Huang, Chao Qian, and Qingfu Zhang. Many-to-Few Decomposition: Linking R2-based and Decomposition-based Multiobjective Efficient Global Optimization Algorithms. IEEE Transactions on Evolutionary Computation, 2024.  [[PDF](https://ieeexplore.ieee.org/document/10612805)] [[Supplementary](https://ieeexplore.ieee.org/document/10612805/media#media)]** <br/>
 
 
 
